@@ -1,6 +1,7 @@
 # Pokedex
 
-
+## Demo
+A demo do app pode ser vizualizada em https://pokedex-rafael.netlify.app/
 
 ## Descrição
 Pokedex simples desenvolvida com ReactJS para consulta de detalhes dos pokemons. As informações apresentadas são obtidas através da API https://pokeapi.co/
