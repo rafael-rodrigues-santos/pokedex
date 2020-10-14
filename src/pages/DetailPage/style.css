@@ -1,0 +1,36 @@
+.card__pokemon {
+  width: 100%;
+  max-width: 450px;
+  margin-top: 10px;
+  border-radius: 15px;
+  max-height: 75vh;
+  padding: 0 20px;
+  box-shadow: 0 0 10px 0 #575757;
+}
+
+.card__pokemon p {
+  margin: 20px 0;
+}
+
+.card__pokemon-name {
+  margin: 50px 0;
+}
+
+.card__pokemon-name h1 {
+  font-size: 4rem;
+  text-transform: capitalize;
+  letter-spacing: 0.5rem;
+}
+
+.card__pokemon-image {
+  width: 100%;
+  max-width: 600px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card__pokemon-image img {
+  width: 200px;
+}

@@ -1,0 +1,19 @@
+.input__block {
+  width: 100%;
+  max-width: 450px;
+  margin: 20px 20px 40px;
+}
+
+.input__block label {
+  font-size: 1.4rem;
+  line-height: 2rem;
+}
+
+.input__block input {
+  width: 100%;
+  max-width: 450px;
+  padding: 15px;
+  border-radius: 0;
+  margin: 5px 0;
+  text-transform: lowercase;
+}

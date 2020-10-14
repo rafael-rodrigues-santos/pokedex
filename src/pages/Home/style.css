@@ -1,0 +1,20 @@
+.list__pokemon {
+  margin: 40px 0;
+}
+
+.card__name {
+  width: auto;
+  display: flex;
+  margin: 10px 0 10px 20px;
+}
+
+.card__name p {
+  color: black;
+  line-height: 25px;
+  text-align: center;
+  width: auto;
+}
+
+a:link {
+  text-decoration: none;
+}
