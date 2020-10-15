@@ -8,7 +8,7 @@ const Home = ({ pokemon }) => {
 
   pokemon &&
     pokemon.map((p) => {
-      listPokemon.push({
+      return listPokemon.push({
         name: p.name,
       });
     });
