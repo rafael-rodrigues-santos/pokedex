@@ -32,7 +32,7 @@ const Select = ({
     if (type !== '') {
       getType(type);
     }
-  }, [type]);
+  });
 
   return (
     <div className="select__block">
